@@ -50,4 +50,4 @@
 **Who:** Used for common people to know about the intensity of light
 
 **How:** Used at the staircase in order to indicate and make light glow when person enters.
-	Placed at entrance of malls etc..,in order to sense and open the doors.
+	Placed at entrance of malls etc..,in order to sense and open the doors..

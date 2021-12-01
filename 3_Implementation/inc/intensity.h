@@ -5,7 +5,7 @@
  * @version 0.1
  * @date 2021-12-01
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2021.
  * 
  */
 #ifndef INTENSITY_H_

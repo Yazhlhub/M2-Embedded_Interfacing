@@ -1,5 +1,7 @@
 **Documentation**
 
+**Light Intensity Measurement using LDR**
+
 **Introduction:**
 
    An LDR is a transducer which changes its resistance when LIGHT falls on its surface changes.  LDR sensor is available in different sizes and shapes.LDR are used most of times to detect presence of light or for measuring the intensity of light.

@@ -7,3 +7,5 @@
 **Cppcheck:**
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Yazhlhub/M2-Embedded_Interfacing/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Yazhlhub/M2-Embedded_Interfacing/actions/workflows/Cppcheck.yml)
+
+

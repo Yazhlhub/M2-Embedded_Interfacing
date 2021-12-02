@@ -17,7 +17,7 @@ Folder        | Description
 `2_Architecture`         |  Diagrammatic representations of project
 `3_Implementation`        | Implemented inc,src,test and unity with code content
 `4_TestPlanAndOutput`       | Tested code and their results
-`5_Images`                  |project output image file uploaded
-`6_Report`                  |All README.md content updated
+`5_Report`                  |All README.md content updated
+`6_Images or videos`                  |project output image file uploaded
 
 
